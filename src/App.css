@@ -1,0 +1,10 @@
+.container{
+  width: 600px;
+  margin: 10px auto;
+  text-align: center;
+  /*background: #ADD5DB;*/
+}
+
+.container h1{
+  padding: 5px;
+}
